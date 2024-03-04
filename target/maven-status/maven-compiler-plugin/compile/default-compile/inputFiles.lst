@@ -1,5 +1,7 @@
+/home/faculdade-pessoal/Documentos/GitHub/mineda/src/main/java/br/gov/sp/fatec/projetospring20231/entity/Anotacao.java
 /home/faculdade-pessoal/Documentos/GitHub/mineda/src/main/java/br/gov/sp/fatec/projetospring20231/entity/Usuario.java
 /home/faculdade-pessoal/Documentos/GitHub/mineda/src/main/java/br/gov/sp/fatec/projetospring20231/ProjetoSpring20231Application.java
 /home/faculdade-pessoal/Documentos/GitHub/mineda/src/main/java/br/gov/sp/fatec/projetospring20231/service/UsuarioService.java
 /home/faculdade-pessoal/Documentos/GitHub/mineda/src/main/java/br/gov/sp/fatec/projetospring20231/controller/UsuarioController.java
+/home/faculdade-pessoal/Documentos/GitHub/mineda/src/main/java/br/gov/sp/fatec/projetospring20231/entity/Autorizacao.java
 /home/faculdade-pessoal/Documentos/GitHub/mineda/src/main/java/br/gov/sp/fatec/projetospring20231/repository/UsuarioRepository.java
